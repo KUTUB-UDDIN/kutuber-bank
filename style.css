@@ -1,0 +1,50 @@
+body{
+    padding: 100px;
+}
+/* .bank-tittle{
+      text-align: center;
+} */
+
+
+/* submit-area */
+.submit-area{
+     margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+}
+/* submit-area end */
+
+/* transation area */
+
+   #transation-area{
+       display: none;
+       text-align: center;
+   }
+
+   .deposit{
+       background-color: slateblue;
+      
+   }
+   .withdraw{
+       background-color: lightsalmon;
+      
+   }
+   .blance{
+       background-color: orange;
+       
+   }
+   .status{
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+   }
+
+   .deposit-title{
+       margin-top: 20px;
+   }
+  .withdraw-tittle{
+    margin-top: 20px;
+  }
+  
+/* transation area end */
